@@ -4,4 +4,4 @@ n2=float(input('digite um numero real:'))
 n3=( n*2)*(n1/2)
 n4=(n*3)+n2
 n5=n2**3
-print(f": {n3}\nc: {n4}\nc: {n5}\nc")
+print("esse será o seu  resultado do primeiro valor :",n3,'em seguida o resultado com o segundo valor',n4,'e por ultimo é justamente o ultimo valor:',n5)
